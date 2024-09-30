@@ -14,6 +14,6 @@ La video si contre nous donne une vue sur l'execution du projet:
 
 <div align="center">
 
-(https://github.com/user-attachments/assets/4c731254-5a8f-46e4-b7f2-eb841134a3e8)
+[Voir la vidéo](https://github.com/user-attachments/assets/4c731254-5a8f-46e4-b7f2-eb841134a3e8)
 
 </div>
